@@ -1,11 +1,5 @@
 # Dual-market-capital-rotation-strategy-VMD-BiGRU-model
 
-# High-Frequency T+0 Trading Architecture
-
-This diagram illustrates the data flow, signal processing, Bayesian probability updating, and cross-market execution logic for our global T+0 trading strategy.
-
-## System Flowchart
-
 ```mermaid
 flowchart TD
     classDef data fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a5f
