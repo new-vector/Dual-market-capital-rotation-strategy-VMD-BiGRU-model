@@ -1,4 +1,4 @@
-# Dual-market-capital-rotation-strategy-VMD-BiGRU-model
+# Dual-market-capital-rotation-strategy-VMD-BiGRU-model, aegis 
 
 ```mermaid
 flowchart TD
