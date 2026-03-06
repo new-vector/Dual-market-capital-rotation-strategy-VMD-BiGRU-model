@@ -24,7 +24,7 @@
 [![Strategy](https://img.shields.io/badge/STRATEGY-T%2B0%20HFT-16a34a?style=for-the-badge&logo=chart.js&logoColor=white)](.)
 [![Alpha](https://img.shields.io/badge/ALPHA-PENDING-94a3b8?style=for-the-badge&logo=target&logoColor=white)](.)
 
-> *A high-frequency, dual-market capital rotation strategy using Variational Mode Decomposition and Bidirectional Gated Recurrent Units with Bayesian probability updating — rotating capital dynamically between A-shares and US equities via HKEx FX settlement.*
+> *High-frequency, dual-market capital rotation strategy using Variational Mode Decomposition and Bidirectional Gated Recurrent Units with Bayesian probability updating, rotating capital dynamically between A-shares and US equities via HKEx FX settlement.*
 
 </div>
 
