@@ -237,22 +237,6 @@ gantt
 >
 > The primary bottleneck is deep learning inference latency (`0.10–0.80ms`), which exceeds the execution threshold for true HFT.
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  KNOWN CONSTRAINTS                                          │
-│  ─────────────────                                          │
-│  *  BiGRU latency:  0.10 – 0.80ms  (target: < 0.05ms)     │
-│  *  Regime sensitivity: alpha decay during transitions     │
-│  *  FX settlement friction: CNY ↔ CNH spread costs        │
-│                                                             │
-│  PLANNED MITIGATIONS                                        │
-│  ────────────────────                                       │
-│  +  Replace BiGRU with linear approximation model         │
-│  +  Implement regime-aware Bayesian prior switching        │
-│  +  Optimise HKEx settlement timing & batch routing       │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
